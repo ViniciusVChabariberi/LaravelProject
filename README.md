@@ -1,2 +1,2 @@
 # LaravelProject
-Projeto simples e funcional feito com laravel e bootstrap
+Projeto simples e funcional feito com laravel e bootstrap.
