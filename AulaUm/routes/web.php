@@ -11,6 +11,10 @@ Route::get('/home', function () {
     return view('home');
 });
 
+Route::get('/contato', function () {
+    return view('contato');
+});
+
 Route::get('/quemsomos', function () {
     return view('quemsomos');
 });
@@ -19,9 +23,6 @@ Route::get('/noticias', function () {
     return view('noticias');
 });
 
-Route::get('/contato', function () {
-    return view('contato');
-});
 
 Route::get('/dashboard', function () {
     return view('dashboard');
